@@ -1,4 +1,4 @@
-# Ex-9-RSA-Algorithm
+# Ex-9 | RSA Algorithm
 ## AIM:
 To encrypt and decrypt a given message using the RSA (Rivest-Shamir-Adleman) algorithm.
 
